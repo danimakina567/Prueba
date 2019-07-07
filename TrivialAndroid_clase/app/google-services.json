@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "634076030969",
+    "firebase_url": "https://trivialandroid-8ea26.firebaseio.com",
+    "project_id": "trivialandroid-8ea26",
+    "storage_bucket": "trivialandroid-8ea26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634076030969:android:9528dda4bb77c830",
+        "android_client_info": {
+          "package_name": "com.bishoport.trivialandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634076030969-q0gok4t3fofn1j9cio358rq8utcqfgjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bishoport.trivialandroid",
+            "certificate_hash": "0751e806901249923261f6b3694336e4aeb5bedc"
+          }
+        },
+        {
+          "client_id": "634076030969-prdkliq77h793fgqdcou4c12v03ghsrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkWX-xDh3wiN0MzqQhQo1YFIDCV82OnaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634076030969-prdkliq77h793fgqdcou4c12v03ghsrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634076030969:android:62eaf503e1d07e85",
+        "android_client_info": {
+          "package_name": "com.cice.trivialandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634076030969-vuntslc5q6snkn0jaqmrm6cec3418acl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cice.trivialandroid",
+            "certificate_hash": "a758f41596decc8cb4049058532904839e5a51da"
+          }
+        },
+        {
+          "client_id": "634076030969-qs2a23qmsegmbn1c0lsmlmsadgpf7tvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cice.trivialandroid",
+            "certificate_hash": "c39fd73f179a441edb4178f9fdda2d586acd0a6b"
+          }
+        },
+        {
+          "client_id": "634076030969-5g470308puaebh0qt3ig5p3773vn4hpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cice.trivialandroid",
+            "certificate_hash": "0751e806901249923261f6b3694336e4aeb5bedc"
+          }
+        },
+        {
+          "client_id": "634076030969-prdkliq77h793fgqdcou4c12v03ghsrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkWX-xDh3wiN0MzqQhQo1YFIDCV82OnaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634076030969-prdkliq77h793fgqdcou4c12v03ghsrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

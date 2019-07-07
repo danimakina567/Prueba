@@ -1,0 +1,15 @@
+{"preguntas":
+[{
+  "enunciado":"Pregunta 1: ¿Cuantos hijos Homer Simpson?",
+  "respuestas":["Tiene 3 hijos","No tiene hijos","No se quien es Homer","Tiene 2 hijas"],
+  "correcta":0,
+  "image_url":"https://ep00.epimg.net/cultura/imagenes/2012/07/14/album/1342278394_306451_1342283337_album_normal.jpg"
+},
+  {
+    "enunciado":"Pregunta 2: ¿De que color tiene Marge el pelo?",
+    "respuestas":["Verde","No tiene","Azul","Rojo"],
+    "correcta":2,
+    "image_url":"https://ep00.epimg.net/cultura/imagenes/2012/07/14/album/1342278394_306451_1342283337_album_normal.jpg"
+  }]
+
+}
